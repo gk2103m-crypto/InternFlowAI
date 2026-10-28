@@ -1,0 +1,4 @@
+title,description,required_skills,reference_text,submission_format,meeting_link
+API Development,"Build REST endpoints with create/read/update/delete operations and validate errors.","Python, FastAPI","Working CRUD API; validation; README; 3 tests; demo video","GitHub URL + README + MP4",
+Frontend Dashboard,"Design a responsive task board with filters and progress status.","React, JavaScript","Responsive layout; filter behavior; at least 3 tests; README; demo","GitHub URL + README + MP4",
+Performance Analysis,"Clean intern performance data and create charts and conclusions.","Python, SQL","Data cleaning; charts; documented metrics; README; 3 tests","GitHub URL + README + MP4",

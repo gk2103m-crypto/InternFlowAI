@@ -1,0 +1,4 @@
+I implemented a task tracker using Streamlit and SQLite. Users can add interns and
+assign tasks. I have a README with setup commands. I added two manual test cases.
+Email integration is not completed yet, and I did not build error-handling tests.
+The dashboard can display task status, but a recorded video is still pending.

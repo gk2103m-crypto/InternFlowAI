@@ -1,0 +1,7 @@
+COMPANY PROJECT REQUIREMENTS — DEMO REFERENCE
+- Working application that can be run from README instructions.
+- Input validation and error handling.
+- Four milestone reviews with recorded progress.
+- Readable GitHub repository and 3 meaningful test cases.
+- Short final demo video showing functionality.
+- Document known limitations and future improvements.

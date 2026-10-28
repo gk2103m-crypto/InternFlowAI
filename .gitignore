@@ -1,0 +1,10 @@
+.env
+internflow.db
+*.db-journal
+__pycache__/
+*.py[cod]
+.venv/
+.streamlit/secrets.toml
+.DS_Store
+!.env.example
+*.db
